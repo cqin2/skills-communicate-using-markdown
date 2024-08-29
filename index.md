@@ -4,4 +4,5 @@
 #### test H4
 ##### test H5
 ###### test H6
-test text
+CHECK MY IMAGE BELOW
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
