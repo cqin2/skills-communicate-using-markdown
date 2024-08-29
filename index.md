@@ -6,3 +6,7 @@
 ###### test H6
 CHECK MY IMAGE BELOW
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+CHECK MY CODE BELOW
+``` python
+print("Hello World!")
+```
